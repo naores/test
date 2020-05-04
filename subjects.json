@@ -1,0 +1,40 @@
+[
+   {
+      "id":1,
+      "title":"Modélisation de performances par simulation a événements discretsa",
+      "idProfessor":1,
+      "professorName":"Albuquerque Paul",
+      "additionalProfessor":[{}],
+      "company":"Dr. J.-L. Falcone, Uni. de Genève",
+      "orientation":"",
+      "description":"Dans le cadre d'une infrastructure logicielle multi-composants, l'optimisation du dimensionnement de l'allocation des ressources informatiques à ces composants est d'une importance cruciale. En effet, il est important de ne pas allouer trop de ressources à un composant afin de maximiser l'efficience globale du système. On propose de mettre au point un simulateur basé sur la méthode de simulation à événements discrets (Discrete Event Simulation, DES) qui permet de simuler le temps d'exécution d'une application multi-composants (code de simulation physique CPU-GPU, requête utilisateur nécessitant du calcul-requêtes sur une base de données, ...) connaissant le modèle de performance de chacun des composants et leurs interactions."
+
+},
+   {
+      "id":2,
+      "title":"Décisions par intelligence artificielle appliquées à l’analyse boursière",
+      "idProfessor":1,
+      "professorName":"Albuquerque Paul",
+      "additionalProfessor":[
+         {
+            "idProfessor":2,
+            "professorName":"Cavat Joël"}],
+      "company":"",
+      "orientation":"",
+      "description":"L'objectif du projet est de se familiariser avec les différents indicateurs boursiers (oscillateurs, suivi de tendance, support et résistance...) dans un premier temps. De lister ensuite les API permettant de récupérer des données boursières (les cryptomonnaies ou le forex). Et enfin, d'imaginer les fonctionnalités que devront mettre en oeuvre les différentes stratégies de décisions. Les stratégies à étudier seront l'ia symbolique (gofai) avec la logique floue, décisions aléatoires et algorithmes naïfs, l'apprentissage supervisé et non supervisé avec un algorithme génétique. Ce projet se focalise sur les traitements  numériques et l’architecture logicielle afin de pouvoir comparer différentes stratégies d’IA."
+
+},
+   {
+      "id":3,
+      "title":"Planification d'horaires de cours avec gestion des contraintes et prise en compte des préférences",
+      "idProfessor":1,
+      "professorName":"Albuquerque Paul",
+      "additionalProfessor":[{
+            "idProfessor":2,
+            "professorName":"Cavat Joël"}],
+      "company":"",
+      "orientation":"Logiciel",
+      "description":"La réalisation d'un horaire pour les cours est un problème difficile. Plusieurs contraintes doivent être prises en compte. Les contraintes fortes (un enseignant ne peut enseigner qu'un seul cours au même moment, il ne peut y avoir deux cours en même temps dans la même salle, ...) doivent être respectées pour avoir un horaire légal. Les contraintes faibles (un enseignant ne souhaite si possible pas enseigner le mercredi après-midi, ...) doivent être prises en compte également dans la mesure du possible. L'objectif est de maximiser les préférences de chacun. Ce projet se concentre sur l'analyse des formats de données utilisées dans l'orientation ITI et sur l'étude du problème : listez les contraintes, imaginer quels algorithmes d'optimisation pourraient être utilisés pour proposer un horaire."
+
+}
+]
